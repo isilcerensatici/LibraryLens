@@ -3,7 +3,7 @@
 ### Overview
 This project is a Python-based barcode scanner designed to help organize personal book collections by scanning ISBN barcodes and retrieving book information from the Google Books API. The data is automatically saved into an Excel file for easy tracking and management.
 
-> 📝 **Note:** I developed this tool while organizing my own library to separate books I’ve read from those I haven’t, and to keep track of the ones I own but haven’t yet explored.
+📝 **Note:** I developed this tool while organizing my own library to separate books I’ve read from those I haven’t, and to keep track of the ones I own but haven’t yet explored.
 
 
 ### 🔧 Features
